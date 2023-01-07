@@ -1,0 +1,11 @@
+C:\Users\DECAGON\source\repos\MatchAPair\bin\Debug\MatchAPair.exe.config
+C:\Users\DECAGON\source\repos\MatchAPair\bin\Debug\MatchAPair.exe
+C:\Users\DECAGON\source\repos\MatchAPair\bin\Debug\MatchAPair.pdb
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.csproj.AssemblyReference.cache
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.csproj.SuggestedBindingRedirects.cache
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.Form1.resources
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.Properties.Resources.resources
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.csproj.GenerateResource.cache
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.exe
+C:\Users\DECAGON\source\repos\MatchAPair\obj\Debug\MatchAPair.pdb
